@@ -1,0 +1,15 @@
+# Compilation output
+target
+
+# logs output
+*.log
+
+# IDE configuration
+# IDEA
+.idea
+
+# Eclipse
+.classpath
+.project
+.settings
+
