@@ -4,8 +4,8 @@ import sbt._
 
 object Versions {
 
-  val scala         = "$scala$"
-  val specs2        = "$specs2$"
+  val scala  = "$scala$"
+  val specs2 = "$specs2$"
 
 }
 
