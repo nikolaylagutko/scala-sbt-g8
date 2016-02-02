@@ -1,11 +1,10 @@
-package $organization$.$name;format="norm,word"$
+package $package$
 
 import sbt._
 
 object Versions {
 
   val scala         = "$scala$"
-  val scala_moduels = "$scala_modules$"
   val specs2        = "$specs2$"
 
 }

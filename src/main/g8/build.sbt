@@ -1,5 +1,5 @@
-import $organization$.$name;format="norm,word"$.Dependencies._
-import $organization$.$name;format="norm,word"$.Versions
+import $package$.Dependencies._
+import $package$.Versions
 
 organization := "$organization$"
 
