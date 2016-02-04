@@ -22,5 +22,5 @@ libraryDependencies ++= Seq(
 )
 
 dependencyOverrides ++= Set(
-
+  scala.reflect
 )

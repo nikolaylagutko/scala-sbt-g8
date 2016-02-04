@@ -19,6 +19,10 @@ object Dependencies {
     val mock       = "org.specs2" %% "specs2-mock"       % Versions.specs2 % "test"
   }
 
+  object scala {
+    val reflect = "org.scala-lang" % "scala-reflect" % Versions.scala
+  }
+
   val scala_logging = "com.typesafe.scala-logging" %% "scala-logging" % Versions.scala_logging
 
   val logback = "ch.qos.logback" % "logback-classic" % Versions.logback % "test"
