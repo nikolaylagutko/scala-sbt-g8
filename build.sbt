@@ -1,6 +1,8 @@
 import G8Keys._
 import giter8.G8
 
+scalaVersion := "2.11.7"
+
 giter8Settings
 
 resolvers += Resolver.url("typesafe", url("http://repo.typesafe.com/typesafe/ivy-releases/"))(Resolver.ivyStylePatterns)
