@@ -1,7 +1,7 @@
 import G8Keys._
 import giter8.G8
 
-scalaVersion := "2.11.7"
+scalaVersion := "2.11.8"
 
 giter8Settings
 
