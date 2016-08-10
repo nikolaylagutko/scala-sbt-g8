@@ -9,6 +9,8 @@ version := "$version$"
 
 scalaVersion := Versions.scala
 
+enablePlugins(JavaAppPackaging)
+
 libraryDependencies ++= Seq(
   //compile dependencies
   scala_logging,
